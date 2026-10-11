@@ -23,4 +23,4 @@ Built as a submission for **Hack Club Folktale**.
 3. Navigate to the folder containing the game file.
 4. Run the script using Python:
    ```bash
-   python firsttxtgame.py
+   python main.py
