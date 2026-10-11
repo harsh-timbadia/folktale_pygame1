@@ -95,4 +95,23 @@ while game_running:
             print("invalid choice")
 
         room = "arcade"
+
+        print(f"you have {points} points and your inventory contains: {inventory}")
+    feedback = input("Do you want to continue playing? (yes/no): ").strip().lower()
+    if feedback == "no":
+        print("Thanks for playing!")
+        game_running = False    
         
+        """hi there im harsh ive created me
+        'pythons first ever game actually im super excited 
+        because my first game infact first time ive written 
+        more than 30 lines of code and im super excited
+        to share this game to you all and im even thinking to 
+        extend it to a full fleged game with more inventory items
+        also more mini games and more rooms and more features and
+        i dont want to make it long but i love the smallest version of this game
+        its name is according to the code firsttxtgame but i named it visit to the mall
+        but in linux version lol 😊  concluding with i hope you enjoy it anf real it fully 
+        
+        thanks
+        Harsh,"""
